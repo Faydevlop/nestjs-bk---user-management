@@ -30,7 +30,8 @@
         "trivy",
         "uniqid",
         "virtuals",
-        "oauthtoken"
+        "oauthtoken",
+        "paise"
     ],
     "ignoreRegExpList": [
         "/\\bI[A-Z][a-zA-Z]*\\b/"
