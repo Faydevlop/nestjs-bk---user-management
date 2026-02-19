@@ -1,0 +1,18 @@
+{
+    "development": {
+        "PORT": 7007,
+        "MONGODB_URI": "mongodb://localhost:27017/user-mgmt-dev",
+        "DEMO_MONGODB_URI": "mongodb://localhost:27017/user-mgmt-demo",
+        "SWAGGER_URLS": "http://localhost:7007",
+        "ACCESS_TOKEN_EXPIRY": 15,
+        "REFRESH_TOKEN_EXPIRY": 365
+    },
+    "production": {
+        "PORT": 7007,
+        "MONGODB_URI": "mongodb://localhost:27017/user-mgmt-prod",
+        "DEMO_MONGODB_URI": "mongodb://localhost:27017/user-mgmt-demo-prod",
+        "SWAGGER_URLS": "https://api.example.com",
+        "ACCESS_TOKEN_EXPIRY": 15,
+        "REFRESH_TOKEN_EXPIRY": 365
+    }
+}

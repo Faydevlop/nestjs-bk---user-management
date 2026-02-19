@@ -1,0 +1,64 @@
+#!/bin/sh
+#######################################
+# CODEQL (PRE-PUSH, ALL PLATFORMS)
+#######################################
+
+echo "🔍 Running CodeQL pre-push scan..."
+
+OS="$(uname -s)"
+
+# -------------------------------------
+# Ensure CodeQL is installed
+# -------------------------------------
+if ! command -v codeql >/dev/null 2>&1; then
+  echo "⚠️ CodeQL not found. Installing..."
+
+  if [ "$OS" = "Darwin" ]; then
+    brew install codeql
+
+  elif [ "$OS" = "Linux" ]; then
+    curl -sSfL https://github.com/github/codeql-cli-binaries/releases/latest/download/codeql-linux64.zip -o codeql.zip
+    unzip -q codeql.zip
+    mkdir -p "$HOME/.local/codeql"
+    mv codeql/* "$HOME/.local/codeql/"
+    export PATH="$HOME/.local/codeql:$PATH"
+
+  elif echo "$OS" | grep -qi "mingw\|msys\|cygwin"; then
+    echo "❌ CodeQL must be installed manually on Windows."
+    echo "👉 Download from: https://github.com/github/codeql-cli-binaries"
+    exit 1
+
+  else
+    echo "❌ Unsupported OS: $OS"
+    exit 1
+  fi
+fi
+
+# -------------------------------------
+# Create / reuse database
+# -------------------------------------
+CODEQL_DB=".codeql-db"
+
+echo "📦 Preparing CodeQL database..."
+
+if [ ! -d "$CODEQL_DB" ]; then
+  codeql database create "$CODEQL_DB" \
+    --language=javascript \
+    --source-root=. \
+    --overwrite
+else
+  echo "♻️ Reusing existing CodeQL database"
+fi
+
+# -------------------------------------
+# Analyze (SARIF output)
+# -------------------------------------
+echo "🧠 Analyzing with CodeQL..."
+
+codeql database analyze "$CODEQL_DB" \
+  codeql/javascript-queries \
+  --download \
+  --format=sarif-latest \
+  --output=codeql-results.sarif
+
+echo "📄 CodeQL analysis completed"

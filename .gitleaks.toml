@@ -1,0 +1,9 @@
+title = "Gitleaks Configuration"
+
+[allowlist]
+  description = "Allowlisted files and paths"
+  paths = [
+    '''\.env''',
+    '''\.env\..*''',
+    '''cspell\.json''',
+  ]
