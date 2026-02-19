@@ -30,6 +30,12 @@ export interface Config {
   ZOHO_CLIENT_SECRET: string;
   ZOHO_REFRESH_TOKEN: string;
   ZOHO_INVENTORY_REFRESH_TOKEN: string;
+  UPLOAD_METHOD: string;
+  AWS_ACCESS_KEY_ID: string;
+  AWS_SECRET_ACCESS_KEY: string;
+  AWS_ENDPOINT: string;
+  AWS_REGION: string;
+  S3_BUCKET: string;
 }
 
 function getEnvVariable(key: string, mandatory = true): string {
@@ -90,6 +96,12 @@ export default () => {
       'ZOHO_INVENTORY_REFRESH_TOKEN',
       true,
     ),
+    UPLOAD_METHOD: getEnvVariable('UPLOAD_METHOD', false) || 'env',
+    AWS_ACCESS_KEY_ID: getEnvVariable('AWS_ACCESS_KEY_ID', false) || '',
+    AWS_SECRET_ACCESS_KEY: getEnvVariable('AWS_SECRET_ACCESS_KEY', false) || '',
+    AWS_ENDPOINT: getEnvVariable('AWS_ENDPOINT', true),
+    AWS_REGION: getEnvVariable('AWS_REGION', true),
+    S3_BUCKET: getEnvVariable('S3_BUCKET', true),
   };
 
   return configData;

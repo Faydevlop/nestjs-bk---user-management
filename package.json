@@ -1,6 +1,6 @@
 {
   "name": "user-management-api",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "",
   "author": "",
   "private": true,
@@ -21,6 +21,8 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.993.0",
+    "@aws-sdk/s3-request-presigner": "^3.993.0",
     "@nestjs/axios": "^4.0.1",
     "@nestjs/bullmq": "^11.0.4",
     "@nestjs/common": "^11.0.1",
