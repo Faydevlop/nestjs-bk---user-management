@@ -36,6 +36,9 @@ export interface Config {
   AWS_ENDPOINT: string;
   AWS_REGION: string;
   S3_BUCKET: string;
+  PAYMENT_SERVICE: string;
+  RAZORPAY_KEY_ID: string;
+  RAZORPAY_KEY_SECRET: string;
 }
 
 function getEnvVariable(key: string, mandatory = true): string {
@@ -102,6 +105,9 @@ export default () => {
     AWS_ENDPOINT: getEnvVariable('AWS_ENDPOINT', true),
     AWS_REGION: getEnvVariable('AWS_REGION', true),
     S3_BUCKET: getEnvVariable('S3_BUCKET', true),
+    PAYMENT_SERVICE: getEnvVariable('PAYMENT_SERVICE', true),
+    RAZORPAY_KEY_ID: getEnvVariable('RAZORPAY_KEY_ID', false) || '',
+    RAZORPAY_KEY_SECRET: getEnvVariable('RAZORPAY_KEY_SECRET', false) || '',
   };
 
   return configData;

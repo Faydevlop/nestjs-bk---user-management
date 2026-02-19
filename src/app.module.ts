@@ -15,6 +15,7 @@ import configuration from './config/configuration';
 import { TallyModule } from './modules/tally.module';
 import { ZohoModule } from './modules/zoho.module';
 import { StorageModule } from './modules/storage.module';
+import { PaymentModule } from './modules/payment.module';
 
 @Module({
   imports: [
@@ -50,6 +51,7 @@ import { StorageModule } from './modules/storage.module';
     TallyModule,
     ZohoModule,
     StorageModule,
+    PaymentModule,
   ],
   controllers: [AppController],
   providers: [
