@@ -1,0 +1,43 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "accesstokens",
+        "aquasecurity",
+        "bcrypt",
+        "bullmq",
+        "codeql",
+        "cspell",
+        "dotenv",
+        "gitleaks",
+        "gstatic",
+        "helmet",
+        "ioredis",
+        "lintstaged",
+        "mongodb",
+        "nestjs",
+        "nosemgrep",
+        "otps",
+        "pino",
+        "precommit",
+        "prepush",
+        "refreshtokens",
+        "sarif",
+        "scalar",
+        "semgrep",
+        "subdocument",
+        "subdocuments",
+        "trivy",
+        "uniqid",
+        "virtuals"
+    ],
+    "ignoreRegExpList": [
+        "/\\bI[A-Z][a-zA-Z]*\\b/"
+    ],
+    "ignorePaths": [
+        "node_modules",
+        "dist",
+        "package-lock.json",
+        "cspell.json"
+    ]
+}

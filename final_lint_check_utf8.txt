@@ -1,0 +1,196 @@
+﻿
+E:\at exelon\user-managment-bk\user-management-api\src\controller\auth\auth.controller.ts
+    2:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+    3:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+    4:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+    5:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+    6:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+    7:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   14:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   15:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   16:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   17:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   18:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   29:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   30:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   31:5  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   32:1  error  Replace `┬╖┬╖┬╖┬╖)┬╖{┬╖` with `┬╖┬╖)┬╖{`                   prettier/prettier
+   34:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   35:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   36:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   37:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   38:5  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   39:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`              prettier/prettier
+   40:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+   41:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`        prettier/prettier
+   42:7  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+   43:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   44:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   45:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   46:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   47:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   48:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   49:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   51:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   52:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   53:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   54:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   55:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   56:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   57:5  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   58:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`              prettier/prettier
+   59:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+   60:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`        prettier/prettier
+   61:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                               prettier/prettier
+   62:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`  prettier/prettier
+   63:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                               prettier/prettier
+   64:9  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+   65:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`              prettier/prettier
+   66:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   67:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   68:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   69:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   70:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   71:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   72:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   74:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+   75:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   76:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   77:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   78:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   79:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   80:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+   81:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+   82:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+   83:9  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+   84:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`  prettier/prettier
+   85:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`  prettier/prettier
+   86:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`  prettier/prettier
+   87:9  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+   88:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`              prettier/prettier
+   89:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+   90:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`        prettier/prettier
+   91:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`        prettier/prettier
+   92:7  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+   93:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   94:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   95:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   96:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+   97:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+   98:5  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+   99:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  100:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  101:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  102:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  103:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  105:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  106:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  107:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  108:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+  109:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  110:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  111:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  112:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  113:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+  114:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  115:9  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  116:7  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+  117:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  118:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  119:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  120:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  121:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  122:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  123:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  124:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  125:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  126:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  128:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  129:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  130:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  131:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  132:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  133:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  134:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  135:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  137:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  138:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  139:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  140:5  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  141:1  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  142:7  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+  143:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`        prettier/prettier
+  144:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  145:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`              prettier/prettier
+  146:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  147:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  148:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  149:1  error  Replace `┬╖┬╖┬╖┬╖` with `┬╖┬╖`                          prettier/prettier
+  150:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  151:1  error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                    prettier/prettier
+  152:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  154:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  155:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  156:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  157:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  158:3  error  Delete `┬╖┬╖`                                       prettier/prettier
+  159:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+  160:5  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  161:1  error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                   prettier/prettier
+  162:5  error  Delete `┬╖┬╖┬╖┬╖`                                     prettier/prettier
+  163:1  error  Delete `┬╖┬╖`                                       prettier/prettier
+
+E:\at exelon\user-managment-bk\user-management-api\src\db\database.service.ts
+  60:9  warning  Promises must be awaited, end with a call to .catch, end with a call to .then with a rejection handler or be explicitly marked as ignored with the `void` operator  @typescript-eslint/no-floating-promises
+
+E:\at exelon\user-managment-bk\user-management-api\src\guards\jwt.strategy.ts
+  22:5   error  Unsafe call of a type that could not be resolved                                     @typescript-eslint/no-unsafe-call
+  23:7   error  Unsafe assignment of an error typed value                                            @typescript-eslint/no-unsafe-assignment
+  23:23  error  Unsafe call of a type that could not be resolved                                     @typescript-eslint/no-unsafe-call
+  23:34  error  Unsafe member access .fromAuthHeaderAsBearerToken on a type that cannot be resolved  @typescript-eslint/no-unsafe-member-access
+  31:11  error  Unsafe assignment of an error typed value                                            @typescript-eslint/no-unsafe-assignment
+  31:23  error  Unsafe call of a type that could not be resolved                                     @typescript-eslint/no-unsafe-call
+  31:34  error  Unsafe member access .fromAuthHeaderAsBearerToken on a type that cannot be resolved  @typescript-eslint/no-unsafe-member-access
+  32:11  error  Unsafe assignment of an error typed value                                            @typescript-eslint/no-unsafe-assignment
+  32:19  error  Unsafe call of a type that could not be resolved                                     @typescript-eslint/no-unsafe-call
+  35:60  error  Unsafe assignment of an error typed value                                            @typescript-eslint/no-unsafe-assignment
+
+E:\at exelon\user-managment-bk\user-management-api\src\main.ts
+   39:11  error    Unsafe call of a type that could not be resolved                                              @typescript-eslint/no-unsafe-call
+   86:22  error    Unsafe return of a value of type `any`                                                        @typescript-eslint/no-unsafe-return
+   86:29  error    Unsafe call of an `any` typed value                                                           @typescript-eslint/no-unsafe-call
+   87:37  warning  Unsafe argument of type `any` assigned to a parameter of type `string`                        @typescript-eslint/no-unsafe-argument
+   88:11  error    Unsafe call of an `any` typed value                                                           @typescript-eslint/no-unsafe-call
+   91:11  error    Unsafe call of an `any` typed value                                                           @typescript-eslint/no-unsafe-call
+  142:18  warning  Unsafe argument of type `any` assigned to a parameter of type `NestJSReferenceConfiguration`  @typescript-eslint/no-unsafe-argument
+
+E:\at exelon\user-managment-bk\user-management-api\src\modules\auth.module.ts
+  32:7  error  Async method 'useFactory' has no 'await' expression  @typescript-eslint/require-await
+
+E:\at exelon\user-managment-bk\user-management-api\src\services\auth\auth.service.ts
+   79:34  error    Unsafe member access ._id on an `any` value                             @typescript-eslint/no-unsafe-member-access
+  133:13  error    Unsafe assignment of an `any` value                                     @typescript-eslint/no-unsafe-assignment
+  136:41  warning  Unsafe argument of type `any` assigned to a parameter of type `string`  @typescript-eslint/no-unsafe-argument
+  136:49  error    Unsafe member access .sub on an `any` value                             @typescript-eslint/no-unsafe-member-access
+  160:53  warning  Unsafe argument of type `any` assigned to a parameter of type `string`  @typescript-eslint/no-unsafe-argument
+  160:61  error    Unsafe member access .email on an `any` value                           @typescript-eslint/no-unsafe-member-access
+  162:51  error    Unsafe member access .message on an `any` value                         @typescript-eslint/no-unsafe-member-access
+  162:64  error    Unsafe member access .stack on an `any` value                           @typescript-eslint/no-unsafe-member-access
+
+E:\at exelon\user-managment-bk\user-management-api\src\services\users\users.service.ts
+   85:21  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  114:11  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  114:34  error  Unsafe member access .tableData on an `any` value   @typescript-eslint/no-unsafe-member-access
+  115:11  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  115:35  error  Unsafe member access .tableCount on an `any` value  @typescript-eslint/no-unsafe-member-access
+  117:14  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  117:25  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+
+E:\at exelon\user-managment-bk\user-management-api\src\utils\interceptors\response.interceptor.ts
+  23:15  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  24:15  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  24:37  error  Unsafe member access .statusCode on an `any` value  @typescript-eslint/no-unsafe-member-access
+
+Γ£û 176 problems (171 errors, 5 warnings)
+  139 errors and 0 warnings potentially fixable with the `--fix` option.
+

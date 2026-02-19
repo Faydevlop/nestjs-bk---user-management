@@ -1,0 +1,87 @@
+﻿
+E:\at exelon\user-managment-bk\user-management-api\src\db\database.service.ts
+  60:9  warning  Promises must be awaited, end with a call to .catch, end with a call to .then with a rejection handler or be explicitly marked as ignored with the `void` operator  @typescript-eslint/no-floating-promises
+
+E:\at exelon\user-managment-bk\user-management-api\src\guards\jwt.strategy.ts
+   9:3   error  Delete `┬╖┬╖`                                                          prettier/prettier
+  10:1   error  Delete `┬╖┬╖`                                                          prettier/prettier
+  15:3   error  Delete `┬╖┬╖`                                                          prettier/prettier
+  16:3   error  Delete `┬╖┬╖`                                                          prettier/prettier
+  17:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  18:5   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  19:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  20:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  21:3   error  Delete `┬╖┬╖`                                                          prettier/prettier
+  22:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  23:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  24:7   error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                                      prettier/prettier
+  25:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  26:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  27:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  28:3   error  Delete `┬╖┬╖`                                                          prettier/prettier
+  30:1   error  Delete `┬╖┬╖`                                                          prettier/prettier
+  31:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  31:27  error  Unsafe call of an `any` typed value                                  @typescript-eslint/no-unsafe-call
+  31:47  error  Unsafe member access .fromAuthHeaderAsBearerToken on an `any` value  @typescript-eslint/no-unsafe-member-access
+  32:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  33:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  34:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  36:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  37:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  39:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  40:7   error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                                      prettier/prettier
+  41:1   error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                                      prettier/prettier
+  42:5   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  44:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  45:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  46:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  48:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  49:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  50:1   error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖`                                                    prettier/prettier
+  51:7   error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                                      prettier/prettier
+  52:1   error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                                      prettier/prettier
+  53:5   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  55:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  56:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖`                                       prettier/prettier
+  57:1   error  Delete `┬╖┬╖┬╖┬╖┬╖┬╖`                                                      prettier/prettier
+  58:1   error  Replace `┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖┬╖` with `┬╖┬╖┬╖┬╖┬╖┬╖`                                 prettier/prettier
+  59:5   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  60:1   error  Delete `┬╖┬╖┬╖┬╖`                                                        prettier/prettier
+  61:1   error  Delete `┬╖┬╖`                                                          prettier/prettier
+
+E:\at exelon\user-managment-bk\user-management-api\src\main.ts
+   86:22  error    Unsafe return of a value of type `any`                                                        @typescript-eslint/no-unsafe-return
+   86:29  error    Unsafe call of an `any` typed value                                                           @typescript-eslint/no-unsafe-call
+   87:37  warning  Unsafe argument of type `any` assigned to a parameter of type `string`                        @typescript-eslint/no-unsafe-argument
+   88:11  error    Unsafe call of an `any` typed value                                                           @typescript-eslint/no-unsafe-call
+   91:11  error    Unsafe call of an `any` typed value                                                           @typescript-eslint/no-unsafe-call
+  142:18  warning  Unsafe argument of type `any` assigned to a parameter of type `NestJSReferenceConfiguration`  @typescript-eslint/no-unsafe-argument
+
+E:\at exelon\user-managment-bk\user-management-api\src\modules\auth.module.ts
+  32:7  error  Async method 'useFactory' has no 'await' expression  @typescript-eslint/require-await
+
+E:\at exelon\user-managment-bk\user-management-api\src\services\auth\auth.service.ts
+   79:34  error    Unsafe member access ._id on an `any` value                             @typescript-eslint/no-unsafe-member-access
+  133:13  error    Unsafe assignment of an `any` value                                     @typescript-eslint/no-unsafe-assignment
+  136:41  warning  Unsafe argument of type `any` assigned to a parameter of type `string`  @typescript-eslint/no-unsafe-argument
+  136:49  error    Unsafe member access .sub on an `any` value                             @typescript-eslint/no-unsafe-member-access
+  160:53  warning  Unsafe argument of type `any` assigned to a parameter of type `string`  @typescript-eslint/no-unsafe-argument
+  160:61  error    Unsafe member access .email on an `any` value                           @typescript-eslint/no-unsafe-member-access
+  162:51  error    Unsafe member access .message on an `any` value                         @typescript-eslint/no-unsafe-member-access
+  162:64  error    Unsafe member access .stack on an `any` value                           @typescript-eslint/no-unsafe-member-access
+
+E:\at exelon\user-managment-bk\user-management-api\src\services\users\users.service.ts
+   85:21  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  114:11  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  114:34  error  Unsafe member access .tableData on an `any` value   @typescript-eslint/no-unsafe-member-access
+  115:11  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  115:35  error  Unsafe member access .tableCount on an `any` value  @typescript-eslint/no-unsafe-member-access
+  117:14  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+  117:25  error  Unsafe assignment of an `any` value                 @typescript-eslint/no-unsafe-assignment
+
+E:\at exelon\user-managment-bk\user-management-api\src\utils\interceptors\response.interceptor.ts
+  53:23  error  This assertion is unnecessary since it does not change the type of the expression  @typescript-eslint/no-unnecessary-type-assertion
+
+Γ£û 69 problems (64 errors, 5 warnings)
+  44 errors and 0 warnings potentially fixable with the `--fix` option.
+
