@@ -29,7 +29,8 @@
         "subdocuments",
         "trivy",
         "uniqid",
-        "virtuals"
+        "virtuals",
+        "oauthtoken"
     ],
     "ignoreRegExpList": [
         "/\\bI[A-Z][a-zA-Z]*\\b/"

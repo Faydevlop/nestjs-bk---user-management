@@ -9,6 +9,8 @@ import hpp from 'hpp';
 import rateLimit from 'express-rate-limit';
 import { apiReference } from '@scalar/nestjs-api-reference';
 import { ConfigService } from '@nestjs/config';
+import { TallyService } from './services/tally/tally.service';
+import { ZohoService } from './services/zoho/zoho.service';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule, { bufferLogs: true });
@@ -146,6 +148,12 @@ async function bootstrap() {
   // Scalar Setup
   // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
   app.use('/reference', apiReference({ spec: { content: document } } as any));
+
+  // Initialize external service connections
+  const tallyService = app.get(TallyService);
+  const zohoService = app.get(ZohoService);
+  logger.log(`Tally connection ready: ${await tallyService.testConnection()}`);
+  logger.log(`Zoho connection ready: ${await zohoService.testConnection()}`);
 
   const port = configService.get<number>('PORT') || 3000;
   await app.listen(port);

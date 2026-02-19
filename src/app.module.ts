@@ -12,6 +12,8 @@ import { DatabaseModule } from './db/database.module';
 import { DatabaseActivityInterceptor } from './utils/interceptors/database-activity.interceptor';
 import { APP_INTERCEPTOR } from '@nestjs/core';
 import configuration from './config/configuration';
+import { TallyModule } from './modules/tally.module';
+import { ZohoModule } from './modules/zoho.module';
 
 @Module({
   imports: [
@@ -44,6 +46,8 @@ import configuration from './config/configuration';
     UsersModule,
     OtpModule,
     QueueModule,
+    TallyModule,
+    ZohoModule,
   ],
   controllers: [AppController],
   providers: [

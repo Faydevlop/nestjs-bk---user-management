@@ -25,6 +25,11 @@ export interface Config {
   MAIL_USER: string;
   MAIL_PASS: string;
   MAIL_FROM: string;
+  TALLY_URL: string;
+  ZOHO_CLIENT_ID: string;
+  ZOHO_CLIENT_SECRET: string;
+  ZOHO_REFRESH_TOKEN: string;
+  ZOHO_INVENTORY_REFRESH_TOKEN: string;
 }
 
 function getEnvVariable(key: string, mandatory = true): string {
@@ -77,6 +82,14 @@ export default () => {
     MAIL_USER: getEnvVariable('MAIL_USER', true),
     MAIL_PASS: getEnvVariable('MAIL_PASS', true),
     MAIL_FROM: getEnvVariable('MAIL_FROM', true),
+    TALLY_URL: getEnvVariable('TALLY_URL', true),
+    ZOHO_CLIENT_ID: getEnvVariable('ZOHO_CLIENT_ID', true),
+    ZOHO_CLIENT_SECRET: getEnvVariable('ZOHO_CLIENT_SECRET', true),
+    ZOHO_REFRESH_TOKEN: getEnvVariable('ZOHO_REFRESH_TOKEN', true),
+    ZOHO_INVENTORY_REFRESH_TOKEN: getEnvVariable(
+      'ZOHO_INVENTORY_REFRESH_TOKEN',
+      true,
+    ),
   };
 
   return configData;
