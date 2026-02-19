@@ -1,6 +1,0 @@
-﻿
-E:\at exelon\user-managment-bk\user-management-api\src\services\auth\auth.service.ts
-  133:13  error  Unsafe assignment of an `any` value  @typescript-eslint/no-unsafe-assignment
-
-Γ£û 1 problem (1 error, 0 warnings)
-
